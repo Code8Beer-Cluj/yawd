@@ -1,0 +1,13 @@
+﻿- platforma web pentru agregat servicii oferite de alte aplicatii web
+- tipul de autentificare o sa fie te tipul "single sign on"
+- interfata vizuala va functiona similar unui desktop
+- posibilitatea de a accesa diferite aplicatii web in paralel
+- aplicatiile se acceseaza pasiv (widget) si activ (interactioneaza cu placatii-
+  le intr-un mod nativ acestora)
+- persistarea starilor generate de aplicatiile externe si setarile user-ului va 
+  fi realizata de aceasta platforma
+
+- user-ului poate alege widget-urile si pozitia lor pe desktop
+- prin widget-uri corespunzatoare aplicatiilor user-ul poate accesa pe acestea
+- widget-urile ofera user-ului un set minimalit de informatii reprezentativ pt
+  aceea aplicatie
